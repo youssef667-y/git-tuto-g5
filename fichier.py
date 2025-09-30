@@ -1,2 +1,2 @@
 def function():
-    return 0
+    return 3
